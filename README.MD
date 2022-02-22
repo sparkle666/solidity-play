@@ -1,0 +1,1 @@
+## A simple playground to learn writing smart contracts with solidity ahead of blockgames.gg
